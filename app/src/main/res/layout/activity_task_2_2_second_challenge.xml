@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".lesson_2.ActivityTask22SecondChallenge">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_product_apple"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/apple" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_product_bread"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bread" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_product_milk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/milk" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_product_juice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/juice" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_product_orange"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/orange" />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/store_edit_text"
+        android:layout_width="@dimen/activity_task_22_edit_text_width"
+        android:layout_height="wrap_content"
+        android:text="@string/activity_task_22_default_location_string" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/open_store_location_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/design_default_color_primary"
+        android:text="@string/find_store"
+        android:textColor="@color/white" />
+</androidx.appcompat.widget.LinearLayoutCompat>

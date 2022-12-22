@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1405" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/drawable/ic_aston_logo.xml" value="0.1405" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1405" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1855" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/drawable/zero_button_selector.xml" value="0.1215" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout-land/activity_task_1_2b.xml" value="0.14739583333333334" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout-land/activity_task_2_1_first.xml" value="0.25677083333333334" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout-land/activity_task_2_2_second_challenge.xml" value="0.19099099099099098" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout-land/activity_task_2_3.xml" value="0.19099099099099098" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout-sw600dp/activity_task_1_2b.xml" value="0.176" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_task11.xml" value="0.25052083333333336" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_task_1_1.xml" value="0.2056434373663959" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_task_1_1_challenge.xml" value="0.2056434373663959" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_task_1_2.xml" value="0.136" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_task_1_2b.xml" value="0.264" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_task_1_3.xml" value="0.2" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_task_1_4.xml" value="0.176" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_task_2_1_first.xml" value="0.2056434373663959" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_task_2_1_first_challenge.xml" value="0.264" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_task_2_1_second.xml" value="0.2" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_task_2_2.xml" value="0.16905901116427433" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_task_2_2_challenge.xml" value="0.16" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_task_2_2_second_challenge.xml" value="0.2" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_task_2_3.xml" value="0.16" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/activity_tasks_2_1_second_challenge.xml" value="0.1" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/layout/product_list_item.xml" value="0.4" />
+        <entry key="..\:/private Projects/Learn/Android/aston_intensive_2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1215" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

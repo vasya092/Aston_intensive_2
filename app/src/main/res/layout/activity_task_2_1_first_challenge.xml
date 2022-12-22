@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_task_2_1_challenge_padding"
+    tools:context=".lesson_2.ActivityTasks21SecondChallenge">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_task_2_1_button_margin_top"
+        android:background="@color/design_default_color_primary"
+        android:text="@string/activity_task_2_1_button_text_one_string_value"
+        android:textColor="@color/white" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_task_2_1_button_margin_top"
+        android:background="@color/design_default_color_primary"
+        android:text="@string/activity_task_2_1_button_text_two_string_value"
+        android:textColor="@color/white" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_three"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_task_2_1_button_margin_top"
+        android:background="@color/design_default_color_primary"
+        android:text="@string/activity_task_2_1_button_text_three_string_value"
+        android:textColor="@color/white" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
